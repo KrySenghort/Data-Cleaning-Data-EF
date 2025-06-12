@@ -1,0 +1,121 @@
+Date,Month,province,Num_Child
+2022-01-01,January,Banteay Meanchey,772.0
+2022-01-01,January,Battambang,1430.0
+2022-01-01,January,Kampong Cham,851.0
+2022-01-01,January,Kampong Chnang,914.0
+2022-01-01,January,Kampong Speu,833.0
+2022-01-01,January,Kampong Thom,853.0
+2022-01-01,January,Kampot,1149.0
+2022-01-01,January,Kandal,970.0
+2022-01-01,January,Koh Kong,114.0
+2022-01-01,January,kratie,494.0
+2022-02-01,February,Banteay Meanchey,587.0
+2022-02-01,February,Battambang,1075.0
+2022-02-01,February,Kampong Cham,591.0
+2022-02-01,February,Kampong Chnang,520.0
+2022-02-01,February,Kampong Speu,545.0
+2022-02-01,February,Kampong Thom,784.0
+2022-02-01,February,Kampot,802.0
+2022-02-01,February,Kandal,760.0
+2022-02-01,February,Koh Kong,68.0
+2022-02-01,February,kratie,508.0
+2022-03-01,March,Banteay Meanchey,669.0
+2022-03-01,March,Battambang,1065.0
+2022-03-01,March,Kampong Cham,494.0
+2022-03-01,March,Kampong Chnang,699.0
+2022-03-01,March,Kampong Speu,597.0
+2022-03-01,March,Kampong Thom,749.0
+2022-03-01,March,Kampot,934.0
+2022-03-01,March,Kandal,794.0
+2022-03-01,March,Koh Kong,155.0
+2022-03-01,March,kratie,569.0
+2022-04-01,April,Banteay Meanchey,617.0
+2022-04-01,April,Battambang,1248.0
+2022-04-01,April,Kampong Cham,632.0
+2022-04-01,April,Kampong Chnang,545.0
+2022-04-01,April,Kampong Speu,567.0
+2022-04-01,April,Kampong Thom,703.0
+2022-04-01,April,Kampot,738.0
+2022-04-01,April,Kandal,823.0
+2022-04-01,April,Koh Kong,115.0
+2022-04-01,April,kratie,496.0
+2022-05-01,May,Banteay Meanchey,595.0
+2022-05-01,May,Battambang,1330.0
+2022-05-01,May,Kampong Cham,564.0
+2022-05-01,May,Kampong Chnang,713.0
+2022-05-01,May,Kampong Speu,682.0
+2022-05-01,May,Kampong Thom,696.0
+2022-05-01,May,Kampot,814.0
+2022-05-01,May,Kandal,823.0
+2022-05-01,May,Koh Kong,118.0
+2022-05-01,May,kratie,494.0
+2022-06-01,June,Banteay Meanchey,668.0
+2022-06-01,June,Battambang,1299.0
+2022-06-01,June,Kampong Cham,614.0
+2022-06-01,June,Kampong Chnang,791.0
+2022-06-01,June,Kampong Speu,726.0
+2022-06-01,June,Kampong Thom,833.0
+2022-06-01,June,Kampot,890.0
+2022-06-01,June,Kandal,904.0
+2022-06-01,June,Koh Kong,158.0
+2022-06-01,June,kratie,419.0
+2022-07-01,July,Banteay Meanchey,693.0
+2022-07-01,July,Battambang,1417.0
+2022-07-01,July,Kampong Cham,636.0
+2022-07-01,July,Kampong Chnang,743.0
+2022-07-01,July,Kampong Speu,922.0
+2022-07-01,July,Kampong Thom,726.0
+2022-07-01,July,Kampot,833.0
+2022-07-01,July,Kandal,769.0
+2022-07-01,July,Koh Kong,157.0
+2022-07-01,July,kratie,347.0
+2022-08-01,August,Banteay Meanchey,745.0
+2022-08-01,August,Battambang,1507.0
+2022-08-01,August,Kampong Cham,664.0
+2022-08-01,August,Kampong Chnang,891.0
+2022-08-01,August,Kampong Speu,742.0
+2022-08-01,August,Kampong Thom,102.0
+2022-08-01,August,Kampot,866.0
+2022-08-01,August,Kandal,965.0
+2022-08-01,August,Koh Kong,203.0
+2022-08-01,August,kratie,582.0
+2022-09-01,September,Banteay Meanchey,825.0
+2022-09-01,September,Battambang,1504.0
+2022-09-01,September,Kampong Cham,631.0
+2022-09-01,September,Kampong Chnang,859.0
+2022-09-01,September,Kampong Speu,780.0
+2022-09-01,September,Kampong Thom,919.0
+2022-09-01,September,Kampot,1011.0
+2022-09-01,September,Kandal,976.0
+2022-09-01,September,Koh Kong,195.0
+2022-09-01,September,kratie,409.0
+2022-10-01,October,Banteay Meanchey,806.0
+2022-10-01,October,Battambang,1577.0
+2022-10-01,October,Kampong Cham,717.0
+2022-10-01,October,Kampong Chnang,984.0
+2022-10-01,October,Kampong Speu,877.0
+2022-10-01,October,Kampong Thom,954.0
+2022-10-01,October,Kampot,855.0
+2022-10-01,October,Kandal,1018.0
+2022-10-01,October,Koh Kong,123.0
+2022-10-01,October,kratie,725.0
+2022-11-01,November,Banteay Meanchey,665.0
+2022-11-01,November,Battambang,1303.0
+2022-11-01,November,Kampong Cham,676.0
+2022-11-01,November,Kampong Chnang,778.0
+2022-11-01,November,Kampong Speu,798.0
+2022-11-01,November,Kampong Thom,948.0
+2022-11-01,November,Kampot,688.0
+2022-11-01,November,Kandal,862.0
+2022-11-01,November,Koh Kong,177.0
+2022-11-01,November,kratie,650.0
+2022-12-01,December,Banteay Meanchey,676.0
+2022-12-01,December,Battambang,1356.0
+2022-12-01,December,Kampong Cham,498.0
+2022-12-01,December,Kampong Chnang,792.0
+2022-12-01,December,Kampong Speu,889.0
+2022-12-01,December,Kampong Thom,906.0
+2022-12-01,December,Kampot,916.0
+2022-12-01,December,Kandal,822.0
+2022-12-01,December,Koh Kong,205.0
+2022-12-01,December,kratie,624.0

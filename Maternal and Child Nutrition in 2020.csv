@@ -1,0 +1,121 @@
+Date,Month,Province,Num_Child
+2020-01-01,January,Banteay Meanchey,796.0
+2020-01-01,January,Battambang,1511.0
+2020-01-01,January,Kampong Cham,743.0
+2020-01-01,January,Kampong Chnang,930.0
+2020-01-01,January,Kampong Speu,986.0
+2020-01-01,January,Kampong Thom,696.0
+2020-01-01,January,Kampot,1121.0
+2020-01-01,January,Kandal,908.0
+2020-01-01,January,Koh Kong,174.0
+2020-01-01,January,kratie,420.0
+2020-02-01,February,Banteay Meanchey,663.0
+2020-02-01,February,Battambang,1319.0
+2020-02-01,February,Kampong Cham,501.0
+2020-02-01,February,Kampong Chnang,776.0
+2020-02-01,February,Kampong Speu,933.0
+2020-02-01,February,Kampong Thom,597.0
+2020-02-01,February,Kampot,957.0
+2020-02-01,February,Kandal,780.0
+2020-02-01,February,Koh Kong,120.0
+2020-02-01,February,kratie,262.0
+2020-03-01,March,Banteay Meanchey,779.0
+2020-03-01,March,Battambang,1435.0
+2020-03-01,March,Kampong Cham,616.0
+2020-03-01,March,Kampong Chnang,864.0
+2020-03-01,March,Kampong Speu,954.0
+2020-03-01,March,Kampong Thom,708.0
+2020-03-01,March,Kampot,668.0
+2020-03-01,March,Kandal,941.0
+2020-03-01,March,Koh Kong,223.0
+2020-03-01,March,kratie,464.0
+2020-04-01,April,Banteay Meanchey,845.0
+2020-04-01,April,Battambang,1534.0
+2020-04-01,April,Kampong Cham,733.0
+2020-04-01,April,Kampong Chnang,899.0
+2020-04-01,April,Kampong Speu,1130.0
+2020-04-01,April,Kampong Thom,808.0
+2020-04-01,April,Kampot,749.0
+2020-04-01,April,Kandal,1122.0
+2020-04-01,April,Koh Kong,145.0
+2020-04-01,April,kratie,450.0
+2020-05-01,May,Banteay Meanchey,684.0
+2020-05-01,May,Battambang,1488.0
+2020-05-01,May,Kampong Cham,792.0
+2020-05-01,May,Kampong Chnang,907.0
+2020-05-01,May,Kampong Speu,1350.0
+2020-05-01,May,Kampong Thom,749.0
+2020-05-01,May,Kampot,1099.0
+2020-05-01,May,Kandal,1147.0
+2020-05-01,May,Koh Kong,213.0
+2020-05-01,May,kratie,357.0
+2020-06-01,June,Banteay Meanchey,854.0
+2020-06-01,June,Battambang,1531.0
+2020-06-01,June,Kampong Cham,733.0
+2020-06-01,June,Kampong Chnang,1020.0
+2020-06-01,June,Kampong Speu,1456.0
+2020-06-01,June,Kampong Thom,862.0
+2020-06-01,June,Kampot,1018.0
+2020-06-01,June,Kandal,1134.0
+2020-06-01,June,Koh Kong,237.0
+2020-06-01,June,kratie,320.0
+2020-07-01,July,Banteay Meanchey,803.0
+2020-07-01,July,Battambang,1449.0
+2020-07-01,July,Kampong Cham,772.0
+2020-07-01,July,Kampong Chnang,912.0
+2020-07-01,July,Kampong Speu,1014.0
+2020-07-01,July,Kampong Thom,699.0
+2020-07-01,July,Kampot,953.0
+2020-07-01,July,Kandal,1055.0
+2020-07-01,July,Koh Kong,102.0
+2020-07-01,July,kratie,566.0
+2020-08-01,August,Banteay Meanchey,941.0
+2020-08-01,August,Battambang,1485.0
+2020-08-01,August,Kampong Cham,720.0
+2020-08-01,August,Kampong Chnang,891.0
+2020-08-01,August,Kampong Speu,1130.0
+2020-08-01,August,Kampong Thom,857.0
+2020-08-01,August,Kampot,1017.0
+2020-08-01,August,Kandal,1013.0
+2020-08-01,August,Koh Kong,83.0
+2020-08-01,August,kratie,565.0
+2020-09-01,September,Banteay Meanchey,912.0
+2020-09-01,September,Battambang,1751.0
+2020-09-01,September,Kampong Cham,704.0
+2020-09-01,September,Kampong Chnang,1070.0
+2020-09-01,September,Kampong Speu,1229.0
+2020-09-01,September,Kampong Thom,941.0
+2020-09-01,September,Kampot,1068.0
+2020-09-01,September,Kandal,1157.0
+2020-09-01,September,Koh Kong,120.0
+2020-09-01,September,kratie,625.0
+2020-10-01,October,Banteay Meanchey,962.0
+2020-10-01,October,Battambang,1555.0
+2020-10-01,October,Kampong Cham,900.0
+2020-10-01,October,Kampong Chnang,972.0
+2020-10-01,October,Kampong Speu,839.0
+2020-10-01,October,Kampong Thom,1050.0
+2020-10-01,October,Kampot,1087.0
+2020-10-01,October,Kandal,1110.0
+2020-10-01,October,Koh Kong,133.0
+2020-10-01,October,kratie,1498.0
+2020-11-01,November,Banteay Meanchey,937.0
+2020-11-01,November,Battambang,1718.0
+2020-11-01,November,Kampong Cham,760.0
+2020-11-01,November,Kampong Chnang,948.0
+2020-11-01,November,Kampong Speu,859.0
+2020-11-01,November,Kampong Thom,910.0
+2020-11-01,November,Kampot,1026.0
+2020-11-01,November,Kandal,1163.0
+2020-11-01,November,Koh Kong,154.0
+2020-11-01,November,kratie,595.0
+2020-12-01,December,Banteay Meanchey,820.0
+2020-12-01,December,Battambang,1542.0
+2020-12-01,December,Kampong Cham,649.0
+2020-12-01,December,Kampong Chnang,835.0
+2020-12-01,December,Kampong Speu,777.0
+2020-12-01,December,Kampong Thom,969.0
+2020-12-01,December,Kampot,658.0
+2020-12-01,December,Kandal,1008.0
+2020-12-01,December,Koh Kong,233.0
+2020-12-01,December,kratie,570.0

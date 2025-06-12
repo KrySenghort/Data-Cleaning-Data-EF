@@ -1,0 +1,61 @@
+Year,Source,Is_Projected,Is_Actual,NGO,Fund (in million USD)
+2019,NGO,False,True,Foundation Children's Hospital Kantha Bopha,27.7
+2019,Development Partner,False,True,Foundation Children's Hospital Kantha Bopha,4.3
+2020,NGO,False,True,Foundation Children's Hospital Kantha Bopha,26.5
+2020,Development Partner,False,True,Foundation Children's Hospital Kantha Bopha,4.5
+2021,NGO,True,False,Foundation Children's Hospital Kantha Bopha,30.4
+2021,Development Partner,True,False,Foundation Children's Hospital Kantha Bopha,4.6
+2019,NGO,False,True,World Vision Cambodia,22.9
+2019,Development Partner,False,True,World Vision Cambodia,3.0
+2020,NGO,False,True,World Vision Cambodia,21.5
+2020,Development Partner,False,True,World Vision Cambodia,3.3
+2021,NGO,True,False,World Vision Cambodia,18.8
+2021,Development Partner,True,False,World Vision Cambodia,1.0
+2019,NGO,False,True,Population Services International,8.1
+2019,Development Partner,False,True,Population Services International,3.1
+2020,NGO,False,True,Population Services International,7.2
+2020,Development Partner,False,True,Population Services International,3.5
+2021,NGO,True,False,Population Services International,7.0
+2021,Development Partner,True,False,Population Services International,2.4
+2019,NGO,False,True,Cambodian Children's Fund,7.9
+2019,Development Partner,False,True,Cambodian Children's Fund,0.0
+2020,NGO,False,True,Cambodian Children's Fund,6.7
+2020,Development Partner,False,True,Cambodian Children's Fund,0.0
+2021,NGO,True,False,Cambodian Children's Fund,1.0
+2021,Development Partner,True,False,Cambodian Children's Fund,0.0
+2019,NGO,False,True,Pour un Sourire d'Enfant,7.7
+2019,Development Partner,False,True,Pour un Sourire d'Enfant,0.0
+2020,NGO,False,True,Pour un Sourire d'Enfant,6.3
+2020,Development Partner,False,True,Pour un Sourire d'Enfant,0.0
+2021,NGO,True,False,Pour un Sourire d'Enfant,2.8
+2021,Development Partner,True,False,Pour un Sourire d'Enfant,0.0
+2019,NGO,False,True,Nokor Tep Foundation,1.2
+2019,Development Partner,False,True,Nokor Tep Foundation,0.0
+2020,NGO,False,True,Nokor Tep Foundation,6.0
+2020,Development Partner,False,True,Nokor Tep Foundation,0.0
+2021,NGO,True,False,Nokor Tep Foundation,0.0
+2021,Development Partner,True,False,Nokor Tep Foundation,0.0
+2019,NGO,False,True,Hope Worldwide,11.6
+2019,Development Partner,False,True,Hope Worldwide,0.0
+2020,NGO,False,True,Hope Worldwide,5.9
+2020,Development Partner,False,True,Hope Worldwide,0.0
+2021,NGO,True,False,Hope Worldwide,7.1
+2021,Development Partner,True,False,Hope Worldwide,0.0
+2019,NGO,False,True,Angkor Hospital for Children,5.8
+2019,Development Partner,False,True,Angkor Hospital for Children,0.0
+2020,NGO,False,True,Angkor Hospital for Children,5.3
+2020,Development Partner,False,True,Angkor Hospital for Children,0.0
+2021,NGO,True,False,Angkor Hospital for Children,5.4
+2021,Development Partner,True,False,Angkor Hospital for Children,0.0
+2019,NGO,False,True,Japan Relief for Cambodia and World Assistance,5.8
+2019,Development Partner,False,True,Japan Relief for Cambodia and World Assistance,0.5
+2020,NGO,False,True,Japan Relief for Cambodia and World Assistance,5.2
+2020,Development Partner,False,True,Japan Relief for Cambodia and World Assistance,0.5
+2021,NGO,True,False,Japan Relief for Cambodia and World Assistance,4.8
+2021,Development Partner,True,False,Japan Relief for Cambodia and World Assistance,0.1
+2019,NGO,False,True,Plan International,4.2
+2019,Development Partner,False,True,Plan International,7.7
+2020,NGO,False,True,Plan International,5.0
+2020,Development Partner,False,True,Plan International,3.5
+2021,NGO,True,False,Plan International,7.4
+2021,Development Partner,True,False,Plan International,7.6
